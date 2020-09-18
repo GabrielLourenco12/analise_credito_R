@@ -1,4 +1,4 @@
-# analise_credito_R
+# Análise de Crédito em R
 Uso de machine learning em R para fazer análises de Risco de Crédito em uma base de dados
 
 # Base de Dados
